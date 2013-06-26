@@ -220,7 +220,7 @@ class system:
 
             self.rpi_keyboard_info = '/usr/lib/keymaps'
             
-            self.backup_dirs = ['/storage/.xbmc', '/storage/.config',
+            self.backup_dirs = ['/storage/.plexht', '/storage/.config',
                                 '/storage/.cache']
                                 
             self.backup_folder = '/storage/backup/'

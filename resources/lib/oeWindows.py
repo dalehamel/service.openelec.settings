@@ -644,7 +644,7 @@ class wizard(xbmcgui.WindowXMLDialog):
         self.wizLstTitle = 1404
         self.wizWinTitle = 32300
 
-        self.guisettings = '/storage/.xbmc/userdata/guisettings.xml'
+        self.guisettings = '/storage/.plexht/userdata/guisettings.xml'
         self.languages_dir = '/usr/share/xbmc/language/'
 
         self.oe = kwargs['oeMain']
